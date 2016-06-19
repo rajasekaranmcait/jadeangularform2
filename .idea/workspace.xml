@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31632955-586f-420b-b1ef-4abb3aff01bc" name="Default" comment="" />
+    <list default="true" id="31632955-586f-420b-b1ef-4abb3aff01bc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="sekaran.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -428,12 +430,12 @@
       <workItem from="1466149356976" duration="209000" />
       <workItem from="1466276690842" duration="510000" />
       <workItem from="1466336211396" duration="85000" />
-      <workItem from="1466336567328" duration="3265000" />
+      <workItem from="1466336567328" duration="3435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156597000" />
+    <option name="totallyTimeSpent" value="156767000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
